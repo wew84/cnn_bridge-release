@@ -1,9 +1,0 @@
-ros-melodic-cnn-bridge (0.8.4-1bionic) bionic; urgency=high
-
-  * Moved source to repo
-  * Initial commit
-  * Contributors: Noam C. Golombek
-
- -- Noam C. Golombek <ngolombek@gmail.com>  Thu, 09 May 2019 21:00:00 -0000
-
-
