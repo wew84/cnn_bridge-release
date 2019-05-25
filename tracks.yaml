@@ -22,7 +22,7 @@ tracks:
     ros_distro: kinetic
     vcs_type: git
     vcs_uri: https://github.com/wew84/cnn_bridge.git
-    version: 0.8.4
+    version: 0.8.5
   melodic:
     actions:
     - bloom-export-upstream :{vcs_local_uri} :{vcs_type} --tag :{release_tag} --display-uri
