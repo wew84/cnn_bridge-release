@@ -1,0 +1,17 @@
+ros-melodic-cnn-bridge (0.8.5-1bionic) bionic; urgency=high
+
+  * Implemented video share
+  * Minor bug fixes
+  * Contributors: Noam C. Golombek
+
+ -- Noam C. Golombek <ngolombek@gmail.com>  Fri, 24 May 2019 21:00:00 -0000
+
+ros-melodic-cnn-bridge (0.8.4-1bionic) bionic; urgency=high
+
+  * Moved source to repo
+  * Initial commit
+  * Contributors: Noam C. Golombek
+
+ -- Noam C. Golombek <ngolombek@gmail.com>  Thu, 09 May 2019 21:00:00 -0000
+
+
